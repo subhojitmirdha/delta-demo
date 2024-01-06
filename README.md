@@ -1,3 +1,3 @@
 # delta-demo
 this is a demo for git & github class...
-try iyt
+try it
